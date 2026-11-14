@@ -18,33 +18,36 @@ day's global breadth is visible at a glance. Every contested claim is
 labelled as a claim and every feature carries its sources.
 
 - **Lead row:** the FAA halting all US departures as air-traffic
-  telecoms fail (ground stop from 4pm ET; 5,000+ flights cancelled);
-  NVIDIA CLOSES BELOW $4 TRILLION — a day after CEO Jensen Huang quit,
-  shares down 16%, the Senate summoning him (the panel is a falling
-  NASDAQ-style chart with an NVDA chip); Iran says it hit a US radar
-  in Bahrain and the US denies it — the panel carries a CLAIM
-  UNVERIFIED chip and both sides' words.
-- **Featured:** Trump, Xi and Putin to meet in China next week; the EU
-  picks five nations for the Ukraine talks — UK, France, Germany,
-  Italy, Poland, agreed in Dublin; Starship Flight 15 reaches orbit
-  (26 Starlinks deployed); Pope Leo XIV says Mass in Chiclayo; a
-  Russian drone sets a Kyiv hospital ablaze; the strike on Gaza's
-  Nasser Hospital; a tanker hits a cruise boat in New Orleans; a
-  bus–truck crash kills 24 in Assam, India.
-- **Also on the day (19 briefs):** the Turkey-Qatar defence pact, the
-  Microsoft 365 outage (day two, 74 nations), the yen past 160 per
-  dollar, Pochettino to manage Manchester United, the U2 album
-  carrying Dolly Parton's last song, COP31 finance for poor nations,
-  China's 100+ ships massed in Taiwan drills, the IAEA "increasingly
-  concerned" on Isfahan, the $1.2B in stolen crypto seized (U.S.
-  blames North Korea), 340,000 displaced in Yemen, the Moscow car
-  bomb, Takaichi's first China visit, Pakistan's raids, North Korea's
-  new flag, the Nairobi collapse, Nigeria ending its Ebola watch,
-  U.S. producer prices up 6.5%, Boebert losing her House seat, and
-  Nauru — every MP joins the government.
+  telecoms fail (ground stop from 3:54pm ET; 5,000+ flights cancelled);
+  Iran says it hit a US radar in Bahrain and the US denies it — the
+  panel carries both sides' words as chips (IRAN: "DESTROYED" /
+  US: "NOT HIT") plus a CLAIM UNVERIFIED tag, and the deck notes the
+  Guards call it payback for a US strike in Sirik; Trump, Xi and
+  Putin to meet in China next week, nuclear arms on the agenda.
+- **Featured:** Starship Flight 15 reaches orbit (26 Starlinks
+  deployed); a Russian drone sets a Kyiv hospital ablaze (30
+  evacuated, 7 rescued, 9 killed in a day); Pope Leo XIV says Mass in
+  Chiclayo; NVIDIA CLOSES BELOW $4 TRILLION — a day after CEO Jensen
+  Huang quit, shares down 16%, the first close below $4 trillion
+  since July 2025 (the panel is a falling NASDAQ-style chart with an
+  NVDA chip); a tanker hits a cruise boat in New Orleans; a
+  bus–truck crash kills 24 in Assam, India; the EU picks five nations
+  for the Ukraine talks — UK, France, Germany, Italy, Poland, agreed
+  in Dublin; Pochettino to manage Manchester United.
+- **Also on the day (19 briefs):** the Türkiye-Qatar defence pact,
+  the Microsoft 365 outage (day two), the yen past 160 per dollar,
+  the U2 album carrying Dolly Parton's last song, COP31 splitting
+  over UN science reports, China's 100+ ships massed in Taiwan
+  drills, the IAEA "increasingly concerned" on Isfahan, the FBI
+  recovering $1.2B in stolen crypto, 340,000 displaced in Yemen, the
+  Moscow car bomb, Takaichi's first China trip for APEC, Pakistan's
+  raids, North Korea's new flag, the Nairobi collapse, Nigeria ending
+  its Ebola watch, U.S. producer prices up 6.5%, Boebert losing her
+  House seat, the strike on Gaza's Nasser Hospital, and Nauru — every
+  MP joins the government.
 
-- `art.png`: 1024x1024 RGB PNG, 199,536 bytes (limit: 1 MiB, 1024x1024)
-- SHA-256: `943cfd000e9e74261fc05ed50b792d2d4e62dc4f1ef1c93838b341871ee4a1b1`
+- `art.png`: 1024x1024 RGB PNG, 203,452 bytes (limit: 1 MiB, 1024x1024)
+- SHA-256: `62032e4138e7af8d0b36fb8e68178656aa2a9b52def2a0a3437adf6b713c871e`
 
 ## How it runs
 
@@ -60,6 +63,28 @@ entry): a masthead, 11 illustrated feature panels, 19 one-line briefs and
 a numbered world map (land dots rasterized from the public-domain
 Natural Earth 110m dataset), laid out as a broadsheet front page so the
 judge can read the whole day's news straight off the image.
+
+## v4 — what changed (14 Nov)
+
+Round 3 (30 stories, 6 continents) was accepted and graded 12W 0L in
+practice, judge 982554, rank #2 — winning every game, so the gap to
+#1 (cheneyc9, 983796) is margins, not wins. Re-studying the current
+top entries' public images showed six gaps, and v4 fixes all of them:
+the lead order follows the top-7 consensus (FAA / Iran / summit —
+v3 alone led with Nvidia second); the Iran panel now shows both
+sides' words as chips inside the picture (IRAN: "DESTROYED" /
+US: "NOT HIT") beside the CLAIM UNVERIFIED tag; Pochettino is
+promoted to an illustrated feature so sport is visible, with the
+Nasser Hospital strike moving to a brief; the decks adopt consensus
+specifics (Sirik payback, 3:54pm ET, first close below $4 trillion
+since July 2025, nuclear arms on the summit agenda, 30 evacuated /
+7 rescued / 9 killed in Kyiv) and drop v3-only unverified bits
+(Kress as interim chief, "74 nations"); the briefs are tightened to
+consensus wording (Türkiye, Moscow bomb's victim, Takaichi "for
+APEC", COP31 "splits over UN science reports", FBI crypto recovery);
+and the kicker reads "ALL FROM FRIDAY". The program is unchanged
+apart from its documentation; only the artwork and its description
+are new.
 
 ## v3 — what changed (14 Nov)
 
